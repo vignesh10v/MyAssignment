@@ -9,6 +9,8 @@ public class FireFox {
 		int releaseYear =1998;
 		char browserLogo = 'f';
 		System.out.println(browserversion+"\n"+browserName+"\n"+isVisible+"\n"+releaseYear+"\n"+browserLogo);
+		System.out.println(browserversion);
+			
 	}
 
 }
